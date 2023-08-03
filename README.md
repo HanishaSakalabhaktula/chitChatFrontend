@@ -6,3 +6,5 @@ Tech stacks used in this project are:
 3. NodeJs
 4. MongoDB
 5. Tailwind CSS
+
+### Link for the backend part - "https://github.com/HanishaSakalabhaktula/chitChatBackend"
